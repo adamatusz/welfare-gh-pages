@@ -9750,9 +9750,6 @@ h5,
   height: calc(100vh - 117px);
   min-height: 700px;
   position: relative;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 .hero-wrap.hero-wrap-2 {
   height: 600px;
